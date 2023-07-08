@@ -1,5 +1,9 @@
 # A Golang JSON to TypeScript model converter
 
+Stolen from https://github.com/tkrajina/typescriptify-golang-structs
+
+remove if https://github.com/tkrajina/typescriptify-golang-structs/pull/70 is merged.
+
 ## Installation
 
 The command-line tool:
@@ -393,4 +397,3 @@ export class Holliday {
 ## License
 
 This library is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-
